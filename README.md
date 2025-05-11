@@ -66,20 +66,10 @@ python app.py
 
 You can inspect and retrain the model using `Heart_Model_Full.ipynb`. The dataset used is `heart.csv`, which contains features like age, sex, chest pain type, resting blood pressure, cholesterol, etc.
 
-## 🌐 Deployment
 
-The app is ready to be deployed to [Heroku](https://www.heroku.com/). Use the `Procfile` and ensure all dependencies are listed in `requirements.txt`.
-
-## 📷 Screenshots
-
-*(Add screenshots of your web interface here)*
 
 ## 📜 License
 
 This project is open-source and available under the MIT License.
 
----
 
-## ✍️ Author
-
-**Your Name** - [Your GitHub](https://github.com/your-username)
